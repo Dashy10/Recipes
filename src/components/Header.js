@@ -4,7 +4,7 @@ import JSONData  from '../../json/recipe'
 class Header extends React.Component {
   render() {
     return (
-       <header>
+       <header id="head">
             <h1>CHICKEN TIKKA MASALA</h1>
             <cite class="contributors">
             <div>By John Doe</div>

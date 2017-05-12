@@ -1,6 +1,6 @@
 body {
   font-family: 'Merriweather', serif;
-  background-color: #E1CEF3;
+  background-color: #E2CEF5;
   text-align: center;
 }
 
@@ -8,17 +8,22 @@ ul, li {
     list-style: none;
 }
 
-header {
-    background-color: pink;
+#pa {
+    color: white;
+    font-size: 24px;
 }
 
-footer {
-    background-color: pink;
+#sty {
+    color: deeppink;
+    font-size: 34px;
 }
 
-.nav {
-    width: 100%;
-    background-color: pink;
+#foot {
+    background-color: #AB65EE;
+}
+
+#head {
+    background-color:  #AB65EE;
 }
 
 #recipe_meta_data {

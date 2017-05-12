@@ -34,9 +34,9 @@ render(
 		<FoodImage />
 		<Ingredients />
 		<Preperation />
-		<PreperationInfo />
-		<PreperationInfo />
-		<PreperationInfo />
+		<PreperationInfo para="Boss Shauna" />
+		<PreperationInfo para="Dash" />
+		<PreperationInfo para="Cristman" />
 		<Nav />
 		<Footer />
 	 </div>),
